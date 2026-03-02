@@ -1,0 +1,15 @@
+{
+  "gender": {
+    "Female": 0,
+    "Male": 1,
+    "Other": 2
+  },
+  "smoking_history": {
+    "No Info": 0,
+    "current": 1,
+    "ever": 2,
+    "former": 3,
+    "never": 4,
+    "not current": 5
+  }
+}
