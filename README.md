@@ -79,7 +79,7 @@ smarthealth/
 ---
 
 ## 🔑 Login Default (Admin)
-- **Email:** admin@smarthealth.id
+- **Email:** reinhartrobert23@gmail.com
 - **Password:** password
 
 *Catatan: Password default di SQL menggunakan hash Laravel. Ganti via register atau update manual.*
