@@ -105,7 +105,7 @@
                     <div class="photo-bg"></div>
                     <div class="photo-ring">
                         <div class="photo-ring-inner">
-                            <img class="member-photo" src="/assets/img/rein.png" alt="Reinhart"
+                            <img class="member-photo" src="/assets/img/reinhart.JPG" alt="Reinhart"
                                  onerror="this.parentElement.innerHTML='<div style=width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#0a2a1a,#0d3520);><span style=font-family:Syne,sans-serif;font-size:42px;font-weight:800;background:linear-gradient(135deg,#00e5a0,#00b8ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;>R</span></div>'">
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                     <div class="photo-bg" style="background:linear-gradient(135deg,rgba(0,184,255,.2),rgba(99,102,241,.15));filter:blur(16px)"></div>
                     <div class="photo-ring" style="background:linear-gradient(135deg,var(--accent2),#6366f1)">
                         <div class="photo-ring-inner">
-                            <img class="member-photo" src="/assets/img/valendino.png" alt="Valendino"
+                            <img class="member-photo" src="/assets/img/valendino.JPG" alt="Valendino"
                                  onerror="this.parentElement.innerHTML='<div style=width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#0a1525,#0d2035);><span style=font-family:Syne,sans-serif;font-size:42px;font-weight:800;background:linear-gradient(135deg,#00b8ff,#6366f1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;>V</span></div>'">
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                     <div class="photo-bg" style="background:linear-gradient(135deg,rgba(255,182,39,.2),rgba(255,120,0,.15));filter:blur(16px)"></div>
                     <div class="photo-ring" style="background:linear-gradient(135deg,var(--warning),#ff7800)">
                         <div class="photo-ring-inner">
-                            <img class="member-photo" src="/assets/img/djefri.png" alt="Djefri"
+                            <img class="member-photo" src="/assets/img/djefri.JPG" alt="Djefri"
                                  onerror="this.parentElement.innerHTML='<div style=width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1a1205,#2a1e0a);><span style=font-family:Syne,sans-serif;font-size:42px;font-weight:800;background:linear-gradient(135deg,#ffb627,#ff7800);-webkit-background-clip:text;-webkit-text-fill-color:transparent;>D</span></div>'">
                         </div>
                     </div>
@@ -176,7 +176,7 @@
                 <div class="member-name">Djefri Wotyla Nugroho</div>
                 <div class="member-role" style="color:var(--warning)"><i class="fas fa-database" style="color:var(--warning)"></i> Data Analyst & Dokumentasi</div>
                 <div class="quote-bubble">
-                    <div class="quote-text">Di balik setiap keputusan hebat, ada data yang berbicara. Tugas saya memastikan data itu dipahami — oleh mesin maupun manusia.</div>
+                    <div class="quote-text">Di balik setiap keputusan hebat, ada data yang berbicara. Tugas saya memastikan data itu dipahami — oleh siapa saja</div>
                 </div>
                 <div class="skills">
                     <span class="skill-tag">Python</span>
