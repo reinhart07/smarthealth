@@ -4,7 +4,7 @@
 ---
 
 ## 📋 Prasyarat
-- XAMPP (PHP 8.0+, MySQL, Apache)
+- Laragon (PHP 8.0+, MySQL)
 - Python 3.8+
 - pip packages: flask flask-cors scikit-learn numpy pickle5
 
@@ -12,10 +12,10 @@
 
 ## 🚀 Cara Setup
 
-### 1. Setup PHP (XAMPP)
+### 1. Setup PHP (Laragon)
 ```
 Letakkan folder `smarthealth/` di:
-C:/xampp/htdocs/smarthealth/
+C:/Laragon/www/smarthealth/
 ```
 
 ### 2. Setup Database
@@ -87,7 +87,7 @@ smarthealth/
 ---
 
 ## ✅ Checklist Sebelum Demo
-- [ ] XAMPP Apache & MySQL berjalan
+- [ ] Laragon & MySQL berjalan
 - [ ] Database `smarthealth` sudah di-import
 - [ ] File .pkl sudah ada di folder `api/`
 - [ ] Flask API berjalan: `python api/predict.py`
