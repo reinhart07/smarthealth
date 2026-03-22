@@ -44,6 +44,7 @@ Setelah menjalankan notebook Colab, download dan letakkan di `smarthealth/api/`:
 ### 5. Jalankan Aplikasi
 ```
 Buka browser: http://localhost/smarthealth/
+Buka website: https://smarthealth.d45.site/
 ```
 
 ---
