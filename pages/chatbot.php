@@ -2,7 +2,7 @@
 require_once __DIR__ . '/../config.php';
 require_once __DIR__ . '/../includes/db.php';
 
-// Gemini API key — ganti dengan key Anda dari https://aistudio.google.com/app/apikey
+
 define('GEMINI_API_KEY','Diblokir GitHub karena alasan keamanan. Silakan masukkan API key Anda sendiri di sini.');
 define('GEMINI_URL','https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key='.GEMINI_API_KEY);
 
