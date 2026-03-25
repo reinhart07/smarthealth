@@ -106,4 +106,4 @@ if __name__ == '__main__':
     print("🚀 SmartHealth Flask API starting...")
     print("📡 Endpoint: http://localhost:5000/predict")
     print("❤️  Health check: http://localhost:5000/health")
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=False, use_reloader=False)
