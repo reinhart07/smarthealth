@@ -1,16 +1,16 @@
-# 🏥 SmartHealth — Setup Guide
+#  SmartHealth — Setup Guide
 ## INFEST Hackathon 2026 | AI & Data Track
 
 ---
 
-## 📋 Prasyarat
+##  Prasyarat
 - Laragon (PHP 8.0+, MySQL)
 - Python 3.8+
 - pip packages: flask flask-cors scikit-learn numpy pickle5
 
 ---
 
-## 🚀 Cara Setup
+##  Cara Setup
 
 ### 1. Setup PHP (Laragon)
 ```
@@ -49,7 +49,7 @@ Buka website: https://smarthealth.d45.site/
 
 ---
 
-## 📁 Struktur File
+## Struktur File
 ```
 smarthealth/
 ├── index.php              ← Landing page
@@ -79,18 +79,8 @@ smarthealth/
 
 ---
 
-## 🔑 Login Default (Admin)
+##  Login Default (Admin)
 - **Email:** reinhartrobert23@gmail.com
-- **Password:** password
+- **Password:** 123456
 
 *Catatan: Password default di SQL menggunakan hash Laravel. Ganti via register atau update manual.*
-
----
-
-## ✅ Checklist Sebelum Demo
-- [ ] Laragon & MySQL berjalan
-- [ ] Database `smarthealth` sudah di-import
-- [ ] File .pkl sudah ada di folder `api/`
-- [ ] Flask API berjalan: `python api/predict.py`
-- [ ] Cek health endpoint: http://localhost:5000/health
-- [ ] Buka aplikasi: http://localhost/smarthealth/
